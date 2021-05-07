@@ -1,2 +1,2 @@
 # logging-practice
-Logging Practice
+common logging with inotify, chukwa, FileBeat, fluentd, syslog , logstash, apache flume, alibaba sls.
