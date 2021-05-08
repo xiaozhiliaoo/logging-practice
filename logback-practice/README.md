@@ -1,0 +1,1 @@
+example from https://github.com/qos-ch/logback/tree/master/logback-examples
